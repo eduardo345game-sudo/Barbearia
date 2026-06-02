@@ -1,2 +1,0 @@
-Coloque aqui a imagem familia.png para aparecer na seção Nossa história.
-Caminho esperado: assets/img/familia.png

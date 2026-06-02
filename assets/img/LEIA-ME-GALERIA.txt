@@ -1,2 +1,0 @@
-Coloque aqui as imagens ambiente.png e processo.png para aparecerem acima dos números na página inicial.
-Tamanho recomendado: 1600x1000 px ou 1920x1080 px.
